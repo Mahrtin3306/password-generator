@@ -34,6 +34,20 @@ I made this program in approximately 4 hours, this is what i leanred:
 - How to create snapshots with Git
 - How to properly upload a project to github
 
+## Screenshots
+
+### Main Menu
+![Main Menu](assets/menu.png)
+
+### Generate Password
+![Generate Password](assets/generate.png)
+
+### Service listing
+![List of Services](assets/list.png)
+
+### Retrieve Password
+![Password Retrieval](assets/retrieve.png)
+
 ## How to run
 
 ```bash
