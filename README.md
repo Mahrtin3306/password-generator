@@ -24,6 +24,16 @@ A local key file (`key.key`) is used for encryption (not included in repo for sa
 - JSON file storage
 - Fernet
 
+## What I learned
+
+I made this program in approximately 4 hours, this is what i leanred:
+
+- how to handle files in Python
+- the foundation of how encryption works
+- CLI app design
+- How to create snapshots with Git
+- How to properly upload a project to github
+
 ## How to run
 
 ```bash
